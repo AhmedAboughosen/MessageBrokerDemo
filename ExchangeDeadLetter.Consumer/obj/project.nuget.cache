@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "mQcPRwjCLWC7bMZ6yFf7+mpu0rV/4v9p13E4fBFalqN/GyhxvS6+4sKm3icc/MumCKSTCTEsX1X2jE7v8Cfhng==",
+  "dgSpecHash": "xYe8TQwhI0VV6swS6VKV0zq80y/ldy3xdU8eRWjc8aeUpzJAsyLeVtZzQir338+KFmHtwgJB7t0fTWQq95RohA==",
   "success": true,
   "projectFilePath": "D:\\PersonalProjects\\backend\\MessageBrokerDemo\\ExchangeDeadLetter.Consumer\\ExchangeDeadLetter.Consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.hassan\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\a.hassan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\a.hassan\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\a.hassan\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\a.hassan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\a.hassan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\a.hassan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\a.hassan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
